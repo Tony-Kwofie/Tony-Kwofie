@@ -1,4 +1,4 @@
-Hi, I'm Anthony Eddei Kwofie — an MSc Artificial Intelligence and Data Science student at the University of Hull (London campus), with a passion for turning data into intelligent solutions.
+Hi, I'm Anthony Eddei Kwofie — MSc Artificial Intelligence and Data Science student at the University of Hull (London campus), with a passion for turning data into intelligent solutions.
 
 🔬 My background blends Business Administration, Occupaional Health & Safety, and now, the exciting world of Machine Learning and AI.
 
