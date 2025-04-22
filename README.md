@@ -7,7 +7,7 @@ Hi, I'm Anthony Eddei Kwofie — MSc Artificial Intelligence and Data Science st
 Data Analysis with Python (Pandas, NumPy, Matplotlib), Data Visualization with Power BI, 
 Machine Learning with Scikit-learn Real-world AI use cases in healthcare, Business, Occupational Health and Safety, agriculture, and music 
 
-💻 Tools & Tech I use: Python | Jupyter | GitHub | SQL | Scikit-learn | VS Code | Pandas | NumPy | Power BI | TensorFlow (learning in progress)
+💻 Tools & Tech I use: Python | Jupyter | Google Colab | GitHub | SQL | Scikit-learn | Streamlit | VS Code | Pandas | NumPy | Power BI | TensorFlow (learning in progress)
 
 🌱 Always learning, building, and exploring — connect or collaborate with me!
 
