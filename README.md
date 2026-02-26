@@ -13,7 +13,7 @@ I design and build production-grade data systems with a platform-first mindset.
 
 My work focuses on distributed architecture, streaming infrastructure, and scalable cloud data platforms engineered for reliability, observability, and long-term maintainability.
 
-With experience spanning infrastructure environments, safety-critical operations, analytics, and AI systems, I approach data engineering as systems engineering — emphasizing fault tolerance, modularity, and performance from day one.
+With experience spanning infrastructure environments, safety-critical operations, analytics, and AI systems, I approach data engineering as systems engineering, emphasizing fault tolerance, modularity, and performance from day one.
 
 ---
 
@@ -107,8 +107,7 @@ Integrated structured data pipelines with feature engineering and ML-driven pred
 ## 📫 Connect
 
 LinkedIn: https://linkedin.com/in/tonykwofie  
-Email: yourprofessionalemail@email.com  
-
+Email: tonyjnr1990@gmail.com
 ---
 
 <p align="center">
