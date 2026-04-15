@@ -36,6 +36,8 @@ With experience spanning infrastructure environments, safety-critical operations
 - Python  
 - SQL  
 - PySpark (Structured Streaming)  
+- Pandas  
+- NumPy  
 
 ### Streaming & Messaging
 - Apache Kafka  
@@ -45,8 +47,16 @@ With experience spanning infrastructure environments, safety-critical operations
 
 ### Storage & Warehousing
 - PostgreSQL  
+- SQL Server  
+- Snowflake  
 - Google BigQuery  
 - Star Schema & Dimensional Modeling  
+
+### Data Transformation & Integration
+- dbt
+- Mage  
+- Airbyte  
+- ETL / ELT Pipeline Development  
 
 ### Infrastructure & Deployment
 - Docker  
@@ -54,16 +64,27 @@ With experience spanning infrastructure environments, safety-critical operations
 - Environment-Based Configuration  
 - Containerized Service Isolation  
 
+### Orchestration
+- Apache Airflow
+- Mage  
+
 ### Observability
 - Prometheus  
 - Kafka JMX Exporter  
 - Consumer Lag Monitoring  
 - Throughput & JVM Metrics Analysis  
 
+### Cloud Platforms
+- AWS (S3)  
+- Google Cloud Platform (BigQuery)  
+
 ### Analytics & Visualization
 - Power BI  
 - Looker Studio  
+- Tableau  
 
+### Version Control
+- Git  
 ---
 
 ## 🚀 Selected Engineering Projects
