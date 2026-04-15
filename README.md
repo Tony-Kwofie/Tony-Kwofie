@@ -87,35 +87,30 @@ With experience spanning infrastructure environments, safety-critical operations
 - Git  
 ---
 
-## 🚀 Selected Engineering Projects
-
-### 📊 Real-Time Distributed Data Pipeline
-A streaming data pipeline built using Kafka, Spark Structured Streaming, PostgreSQL, and Docker.
-
-**Key Engineering Concepts Demonstrated:**
-- Event-driven architecture  
-- Producer-consumer data flow  
-- Scalable streaming data processing  
-- Fault-tolerant pipeline design  
-
 ---
 
-### ☁️ Cloud ETL Data Platform
-Designed and implemented a scalable ETL pipeline using Python and AWS.
+## 🏗️ Data Platform Portfolio
 
-**Highlights:**
-- Automated data ingestion and transformation  
-- Data storage in S3 using Parquet format  
-- Improved data consistency and reporting workflows  
+My work spans across batch processing, real-time streaming, and modern ELT architectures, reflecting how production data platforms are built end-to-end.
 
----
+### 🔹 Batch & Cloud Data Pipelines
+- Built cloud-native pipelines using AWS (S3), Python, and Airbyte  
+- Designed data lakes with Parquet-based storage for scalable analytics  
+- Automated ingestion and transformation workflows for structured datasets  
 
-### 🏗️ ELT Data Platform (Snowflake + dbt)
-Built a structured data platform using modern ELT practices.
+### 🔹 Modern ELT & Analytics Engineering
+- Developed ELT pipelines using Snowflake, dbt, and Airbyte  
+- Implemented Medallion architecture (Bronze → Silver → Gold)  
+- Built fact and dimension models for analytics and reporting  
+- Enforced data quality using dbt tests  
 
-- Transformed raw data into analytics-ready datasets  
-- Designed fact and dimension models  
-- Implemented data quality checks using dbt tests  
+### 🔹 Real-Time Streaming Systems
+- Designed event-driven data pipelines using Kafka and Spark Structured Streaming  
+- Built producer-consumer architectures for real-time data ingestion  
+- Implemented monitoring and observability using Prometheus  
+- Developed scalable, containerized data systems using Docker  
+
+--- 
 
 ---
 
