@@ -89,38 +89,40 @@ With experience spanning infrastructure environments, safety-critical operations
 
 ## 🚀 Selected Engineering Projects
 
-### 📊 Real-Time Distributed Stock Market Data Platform
-A production-grade, event-driven streaming system built with Kafka, Spark Structured Streaming, PostgreSQL, Docker, and Prometheus.
+### 📊 Real-Time Distributed Data Pipeline
+A streaming data pipeline built using Kafka, Spark Structured Streaming, PostgreSQL, and Docker.
 
 **Key Engineering Concepts Demonstrated:**
-- Event-driven architecture
-- Horizontal scalability via partitioning
-- Fault-tolerant consumer design
-- Infrastructure-level observability
-- Containerized deployment strategy
+- Event-driven architecture  
+- Producer-consumer data flow  
+- Scalable streaming data processing  
+- Fault-tolerant pipeline design  
 
 ---
 
-### ☁️ Cloud Telecom ETL & Warehouse Platform
-Designed and implemented a scalable ETL pipeline on GCP using modular architecture and dimensional modeling.
+### ☁️ Cloud ETL Data Platform
+Designed and implemented a scalable ETL pipeline using Python and AWS.
 
 **Highlights:**
-- Structured transformation layers
-- Data validation enforcement
-- Star schema warehouse optimization
-- KPI-driven executive dashboard integration
+- Automated data ingestion and transformation  
+- Data storage in S3 using Parquet format  
+- Improved data consistency and reporting workflows  
 
 ---
 
-### 🔮 Predictive Safety Data Platform (AI + Data Engineering)
-Integrated structured data pipelines with feature engineering and ML-driven predictive modeling to support risk intelligence systems.
+### 🏗️ ELT Data Platform (Snowflake + dbt)
+Built a structured data platform using modern ELT practices.
+
+- Transformed raw data into analytics-ready datasets  
+- Designed fact and dimension models  
+- Implemented data quality checks using dbt tests  
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tony-Kwofie&show_icons=true" />
 </p>
 
 ---
@@ -128,9 +130,10 @@ Integrated structured data pipelines with feature engineering and ML-driven pred
 ## 📫 Connect
 
 LinkedIn: https://linkedin.com/in/tonykwofie  
-Email: tonyjnr1990@gmail.com
+Email: tonyjnr1990@gmail.com  
+
 ---
 
 <p align="center">
-Engineering resilient data systems that scale with ambition.
+Focused on building reliable data systems that make data easier to trust and use.
 </p>
